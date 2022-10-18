@@ -1,4 +1,4 @@
-# reci-keep
+# RECI-KEEP
 
 ## Project setup
 
