@@ -28,9 +28,4 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# reci-keep
-# reci-keep
-# reci-keep
-# reci-keep-app
-# reci-keep
-# reci-keep
+
