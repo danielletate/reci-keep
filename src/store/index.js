@@ -6,7 +6,7 @@ export default createStore({
       {
         slug: 'veggie-pizza',
         title: 'Veggie Pizza',
-        description: 'A mouthwatering vegetarian pizza featuring fresh veggies, gooey cheese, and marinara sauce',
+        description: 'A mouthwatering vegetarian pizza featuring fresh veggies, gooey cheese, and marinara sauce.',
         ingredients: [
           '1 pound store-bought pizza dough',
           '1 cup homemade marinara sauce',
