@@ -1,7 +1,13 @@
 <template>
   <div class="flex flex-col px-8 pt-5 bg-yellow-300">
     <div class="text-lg hover:underline hover:underline-offset-4">
-      <router-link to="/"> &lt; Back </router-link>
+      <router-link to="/">
+        <img
+          src="../assets/back-arrow.png"
+          class="h-8 hover:transition hover:duration-300 hover:scale-110"
+          alt="back-arrow"
+        />
+      </router-link>
     </div>
 
     <h1 class="text-gray-900 text-4xl font-bold mt-10 mb-4">

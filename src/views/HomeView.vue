@@ -34,7 +34,7 @@
 
     <!-- Add recipe popup -->
     <div
-      class="flex items-center justify-center h-screen w-full fixed top-0 bottom-0 bg-black bg-opacity-90 overflow-auto"
+      class="flex items-center justify-center h-screen w-full fixed top-0 bottom-0 bg-black bg-opacity-90"
       v-if="!popupOpen"
     >
       <!-- Popup content -->
